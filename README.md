@@ -9,3 +9,11 @@ This software contains the following functionality:
   
 This software is planned to contain
   - A MIDI player which will play a single MIDI track through the PC speaker
+
+--------------------------------------------------------------------------------
+NOTICE:
+
+Forked from here: https://github.com/agentorange96/Bepis
+
+I just added a cmakelists file and a workflow to compile it and made a release out of the atifact.
+I didn't even look at the source, just wanted to play around a bit with PC-Speaker.
