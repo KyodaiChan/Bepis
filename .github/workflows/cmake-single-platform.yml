@@ -41,5 +41,5 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: Bepis
-        path: build/Debug/Bepis.exe
+        path: D:\a\Bepis\Bepis\build\Release\Bepis.exe
 
