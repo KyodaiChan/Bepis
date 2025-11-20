@@ -11,7 +11,7 @@ This software is planned to contain
   - A MIDI player which will play a single MIDI track through the PC speaker
 
 --------------------------------------------------------------------------------
-NOTICE:
+NOTICE from Kyodai:
 
 Forked from here: https://github.com/agentorange96/Bepis
 
